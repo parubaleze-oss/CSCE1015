@@ -8,3 +8,8 @@ htop
 
 ## Cool Thing I've Done with ChatGPT
 Helped me automate shell commands for class.
+## EUID
+pa0599
+
+## Favorite Linux Command
+htop
